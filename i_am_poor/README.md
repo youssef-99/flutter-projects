@@ -1,6 +1,6 @@
 # i_am_poor
 
-A new Flutter application.
+like i am rich app sold on the App Store for US$999.99
 
 ## Getting Started
 
